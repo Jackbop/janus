@@ -1,0 +1,8 @@
+config_rei_bbp.json
+*.pyc
+__pycache__/
+venv/
+.env
+*.log
+*.md
+!README.md
